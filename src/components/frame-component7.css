@@ -1,4 +1,4 @@
-.bg-icon2 {
+.bg-icon1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -11,20 +11,20 @@
   overflow: hidden;
   max-height: 100%;
 }
-.border1 {
+.border {
   align-self: stretch;
   height: 1px;
   position: relative;
   border-top: 1px solid #e0e0e0;
   box-sizing: border-box;
 }
-.iconcontrolmenu1 {
+.iconcontrolmenu {
   height: 24px;
   width: 24px;
   position: relative;
   min-height: 24px;
 }
-.nav6 {
+.nav {
   position: relative;
   line-height: 22px;
   font-weight: 500;
@@ -32,22 +32,22 @@
   min-width: 77px;
   white-space: nowrap;
 }
-.iconcontrolmenu-group,
-.nav-wrapper4 {
+.iconcontrolmenu-parent,
+.nav-wrapper {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.nav-wrapper4 {
+.nav-wrapper {
   flex-direction: column;
   padding: 1px 0 0;
 }
-.iconcontrolmenu-group {
+.iconcontrolmenu-parent {
   align-self: stretch;
   flex-direction: row;
   gap: 6px;
 }
-.nav7 {
+.nav1 {
   width: 0;
   height: 22px;
   position: relative;
@@ -55,7 +55,7 @@
   font-weight: 500;
   display: inline-block;
 }
-.nav-wrapper5 {
+.nav-container {
   width: 65px;
   display: flex;
   flex-direction: column;
@@ -64,7 +64,7 @@
   padding: 1px 0 0;
   box-sizing: border-box;
 }
-.nav8 {
+.nav2 {
   width: 0;
   height: 22px;
   position: relative;
@@ -72,7 +72,7 @@
   font-weight: 500;
   display: inline-block;
 }
-.nav-wrapper6 {
+.nav-frame {
   width: 67px;
   display: flex;
   flex-direction: column;
@@ -81,7 +81,7 @@
   padding: 1px 0 0;
   box-sizing: border-box;
 }
-.nav9 {
+.nav3 {
   width: 0;
   height: 22px;
   position: relative;
@@ -89,7 +89,7 @@
   font-weight: 500;
   display: inline-block;
 }
-.nav-wrapper7 {
+.nav-wrapper1 {
   width: 51px;
   display: flex;
   flex-direction: column;
@@ -98,7 +98,7 @@
   padding: 1px 0 0;
   box-sizing: border-box;
 }
-.nav10 {
+.nav4 {
   width: 0;
   height: 22px;
   position: relative;
@@ -106,7 +106,7 @@
   font-weight: 500;
   display: inline-block;
 }
-.nav-wrapper8 {
+.nav-wrapper2 {
   width: 69px;
   display: flex;
   flex-direction: column;
@@ -115,7 +115,7 @@
   padding: 1px 0 0;
   box-sizing: border-box;
 }
-.nav11 {
+.nav5 {
   width: 0;
   height: 22px;
   position: relative;
@@ -123,7 +123,7 @@
   font-weight: 500;
   display: inline-block;
 }
-.nav-wrapper9 {
+.nav-wrapper3 {
   width: 0;
   display: flex;
   flex-direction: column;
@@ -132,44 +132,44 @@
   padding: 1px 0 0;
   box-sizing: border-box;
 }
-.iconcontrolexpand-more4 {
+.iconcontrolexpand-more1 {
   height: 24px;
   width: 24px;
   position: relative;
   min-height: 24px;
 }
-.dropdown1,
-.nav-list-container,
-.nav-list1 {
+.dropdown,
+.nav-list,
+.nav-list-wrapper {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
 }
-.dropdown1 {
+.dropdown {
   align-self: stretch;
   width: 61px;
   justify-content: flex-start;
   gap: 37px;
 }
-.nav-list-container,
-.nav-list1 {
+.nav-list,
+.nav-list-wrapper {
   max-width: 100%;
 }
-.nav-list1 {
+.nav-list {
   align-self: stretch;
   width: 620px;
   justify-content: space-between;
   gap: 20px;
   z-index: 1;
 }
-.nav-list-container {
+.nav-list-wrapper {
   width: 880px;
   height: 24px;
   justify-content: center;
   padding: 0 20px;
   box-sizing: border-box;
 }
-.fitness2 {
+.fitness {
   position: absolute;
   top: 8.33%;
   left: 0;
@@ -177,14 +177,14 @@
   font-weight: 500;
   white-space: nowrap;
 }
-.iconcontrolexpand-more5,
-.imageflagsicon2 {
+.iconcontrolexpand-more2,
+.imageflagsicon1 {
   position: absolute;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
 }
-.imageflagsicon2 {
+.imageflagsicon1 {
   height: 66.67%;
   width: 19.13%;
   top: 20.83%;
@@ -193,7 +193,7 @@
   left: 52.17%;
   object-fit: cover;
 }
-.iconcontrolexpand-more5 {
+.iconcontrolexpand-more2 {
   height: 100%;
   width: 20.87%;
   top: 0;
@@ -201,14 +201,14 @@
   bottom: 0;
   left: 79.13%;
 }
-.ship-to1 {
+.ship-to {
   width: 115px;
   height: 24px;
   position: relative;
   display: none;
   z-index: 3;
 }
-.fitness3 {
+.fitness1 {
   position: absolute;
   top: 8.33%;
   left: 0;
@@ -216,7 +216,7 @@
   font-weight: 500;
   white-space: nowrap;
 }
-.iconcontrolexpand-more6 {
+.iconcontrolexpand-more3 {
   position: absolute;
   height: 100%;
   width: 19.35%;
@@ -228,21 +228,21 @@
   overflow: hidden;
   max-height: 100%;
 }
-.payment1 {
+.payment {
   width: 124px;
   height: 24px;
   position: relative;
   display: none;
   z-index: 4;
 }
-.layoutnavbar-alibaba-item {
+.layoutnavbar-alibaba-child {
   align-self: stretch;
   height: 1px;
   position: relative;
   border-top: 1px solid #e0e0e0;
   box-sizing: border-box;
 }
-.layoutnavbar-alibaba1 {
+.layoutnavbar-alibaba {
   height: 56px;
   flex: 1;
   display: flex;
@@ -256,14 +256,14 @@
   max-width: 100%;
   color: #1c1c1c;
 }
-.tr-gip1,
-.vn-bn-php1 {
+.tr-gip,
+.vn-bn-php {
   top: 17px;
   line-height: 22px;
   font-weight: 500;
   white-space: nowrap;
 }
-.tr-gip1 {
+.tr-gip {
   position: absolute;
   margin: 0 !important;
   right: 352px;
@@ -271,17 +271,17 @@
   min-width: 65px;
   z-index: 2;
 }
-.vn-bn-php1 {
+.vn-bn-php {
   right: 556px;
 }
-.doanh-nghip2,
-.vector-icon6,
-.vn-bn-php1 {
+.doanh-nghip1,
+.vector-icon4,
+.vn-bn-php {
   position: absolute;
   margin: 0 !important;
   z-index: 2;
 }
-.doanh-nghip2 {
+.doanh-nghip1 {
   top: 17px;
   left: 576px;
   line-height: 22px;
@@ -290,13 +290,13 @@
   min-width: 113px;
   white-space: nowrap;
 }
-.vector-icon6 {
+.vector-icon4 {
   height: 7.4px;
   width: 12px;
   right: 336px;
   bottom: 23.6px;
 }
-.tin-tc1 {
+.tin-tc {
   width: 65px;
   top: 17px;
   left: 458px;
@@ -305,14 +305,14 @@
   display: inline-block;
   white-space: nowrap;
 }
-.tin-tc1,
-.vector-icon7,
-.video1 {
+.tin-tc,
+.vector-icon5,
+.video {
   position: absolute;
   margin: 0 !important;
   z-index: 2;
 }
-.video1 {
+.video {
   width: 65px;
   top: 17px;
   left: 340px;
@@ -320,13 +320,13 @@
   font-weight: 500;
   display: inline-block;
 }
-.vector-icon7 {
+.vector-icon5 {
   height: 21px;
   width: 21px;
   top: -19px;
   left: 24px;
 }
-.gi-hng1 {
+.gi-hng {
   position: relative;
   line-height: 22px;
   font-weight: 500;
@@ -335,21 +335,21 @@
   white-space: nowrap;
   z-index: 3;
 }
-.layoutnavbar-alibaba-group,
-.vector-group {
+.layoutnavbar-alibaba-parent,
+.vector-parent {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.vector-group {
+.vector-parent {
   margin: 0 !important;
   position: absolute;
   top: 27px;
   left: 1282px;
   color: #8b96a5;
 }
-.layoutnavbar-alibaba-group {
+.layoutnavbar-alibaba-parent {
   align-self: stretch;
   position: relative;
   max-width: 100%;

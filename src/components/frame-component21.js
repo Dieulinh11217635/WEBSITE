@@ -4,13 +4,13 @@ const FrameComponent2 = () => {
   return (
     <div className="case-label">
       <img
-        className="image-3-icon1"
+        className="image-3-icon"
         loading="lazy"
         alt=""
         src="/image-31@2x.png"
       />
       <div className="vn-bn-php-lut-wrapper">
-        <h1 className="vn-bn-php2">VĂN BẢN PHÁP LUẬT</h1>
+        <h1 className="vn-bn-php1">VĂN BẢN PHÁP LUẬT</h1>
       </div>
       <div className="layout-footer-libaba-wrapper">
         <button className="layout-footer-libaba">

@@ -1,4 +1,4 @@
-.bg-icon1 {
+.bg-icon {
   height: 100%;
   width: 100%;
   position: absolute;
@@ -11,7 +11,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.vector-icon2 {
+.vector-icon {
   position: relative;
   width: 21px;
   height: 21px;
@@ -23,7 +23,7 @@
   white-space: nowrap;
 }
 .cart,
-.vector-icon3 {
+.vector-icon1 {
   position: absolute;
   height: 100%;
   width: 19.3%;
@@ -32,7 +32,7 @@
   bottom: 0;
   left: 80.7%;
 }
-.vector-icon3 {
+.vector-icon1 {
   height: 44%;
   width: 51.28%;
   right: 23.08%;
@@ -61,7 +61,7 @@
   top: 62.5%;
   left: 0;
 }
-.vector-icon4 {
+.vector-icon2 {
   position: relative;
   width: 20px;
   height: 20px;
@@ -80,7 +80,7 @@
   top: 63.41%;
   left: 0;
 }
-.vector-icon5 {
+.vector-icon3 {
   position: relative;
   width: 20px;
   height: 19px;
@@ -190,7 +190,7 @@
   padding: 3px 0 0;
   box-sizing: border-box;
 }
-.iconcontrolexpand-more3 {
+.iconcontrolexpand-more {
   height: 24px;
   width: 24px;
   position: relative;
@@ -269,8 +269,8 @@
   width: 665px;
   max-width: 100%;
 }
-.brand-icon1,
-.brandlogo-symbol-icon1 {
+.brand-icon,
+.brandlogo-symbol-icon {
   position: absolute;
   height: 45.87%;
   width: 51.33%;
@@ -282,7 +282,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.brandlogo-symbol-icon1 {
+.brandlogo-symbol-icon {
   height: 95.65%;
   width: 29.33%;
   top: 2.17%;
@@ -291,7 +291,7 @@
   left: -0.67%;
   object-fit: contain;
 }
-.brandlogo-colored1 {
+.brandlogo-colored {
   height: 46px;
   width: 150px;
   position: relative;
@@ -313,7 +313,7 @@
   font-size: 12px;
   color: #8b96a5;
 }
-.ng-nhp2 {
+.ng-nhp1 {
   width: 121px;
   top: 21px;
   right: 39px;
@@ -323,7 +323,7 @@
 }
 .image-127-icon,
 .ng-k1,
-.ng-nhp2 {
+.ng-nhp1 {
   position: absolute;
   margin: 0 !important;
   z-index: 2;

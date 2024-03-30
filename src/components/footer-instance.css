@@ -28,14 +28,14 @@
 .my-orders2 {
   top: 84.31%;
 }
-.col8 {
+.col6 {
   width: 78px;
   height: 152.3px;
   position: relative;
   display: none;
 }
-.brand-icon2,
-.brandlogo-symbol-icon2 {
+.brand-icon1,
+.brandlogo-symbol-icon1 {
   position: absolute;
   height: 45.98%;
   width: 51.33%;
@@ -47,7 +47,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.brandlogo-symbol-icon2 {
+.brandlogo-symbol-icon1 {
   height: 95.79%;
   width: 29.33%;
   top: 2.11%;
@@ -56,13 +56,13 @@
   left: -0.67%;
   object-fit: contain;
 }
-.brandlogo-colored2 {
+.brandlogo-colored1 {
   height: 52.2px;
   width: 150px;
   position: relative;
   display: none;
 }
-.best-information-about1 {
+.best-information-about {
   width: 276px;
   position: relative;
   letter-spacing: -0.2px;
@@ -70,56 +70,56 @@
   display: none;
   flex-shrink: 0;
 }
-.icon-contactsocialfacebook31,
-.icon-contactsocialinstagram31,
-.icon-contactsociallinkedin31,
-.icon-contactsocialtwitter31,
-.icon-contactsocialyoutube31 {
+.icon-contactsocialfacebook3,
+.icon-contactsocialinstagram3,
+.icon-contactsociallinkedin3,
+.icon-contactsocialtwitter3,
+.icon-contactsocialyoutube3 {
   height: 36.3px;
   width: 32px;
   position: relative;
   min-height: 36px;
 }
-.icon-contactsocialfacebook3-group {
+.icon-contactsocialfacebook3-parent {
   height: 36.3px;
   gap: 10px;
 }
-.brandlogo-colored-group,
-.icon-contactsocialfacebook3-group {
+.brandlogo-colored-parent,
+.icon-contactsocialfacebook3-parent {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.link26 {
+.link16 {
   position: relative;
   line-height: 22px;
   font-weight: 500;
   flex-shrink: 0;
   debug_commit: f6aba90;
 }
-.link27,
-.link28,
-.link29,
-.link30 {
+.link17,
+.link18,
+.link19,
+.link20 {
   position: relative;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.col9,
-.link-group {
+.col7,
+.link-parent {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.link-group {
+.link-parent {
   gap: 6.7px;
   flex-shrink: 0;
   debug_commit: f6aba90;
   color: #fff;
 }
-.col9 {
+.col7 {
   height: 152.3px;
   flex: 1;
   padding: 0 0 130.3px;
@@ -127,40 +127,40 @@
   gap: 14.4px;
   min-width: 152px;
 }
-.link31 {
+.link21 {
   position: relative;
   line-height: 22px;
   font-weight: 500;
   flex-shrink: 0;
   debug_commit: f6aba90;
 }
-.link32 {
+.link22 {
   display: inline-block;
   min-width: 71px;
 }
-.link32,
-.link33,
-.link34,
-.link35 {
+.link22,
+.link23,
+.link24,
+.link25 {
   position: relative;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.link-container {
+.link-group {
   flex-direction: column;
   gap: 6.7px;
   flex-shrink: 0;
   debug_commit: f6aba90;
   color: #fff;
 }
-.col10,
+.col8,
 .info-link-container,
-.link-container {
+.link-group {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.col10 {
+.col8 {
   height: 152.3px;
   flex-direction: column;
   padding: 0 0 130.3px;
@@ -285,14 +285,14 @@
   line-height: 22px;
   font-weight: 500;
 }
-.col11 {
+.col9 {
   width: 124px;
   height: 146.5px;
   position: relative;
   display: none;
   color: #1c1c1c;
 }
-.link36 {
+.link26 {
   position: absolute;
   top: 0;
   left: 0;
@@ -300,35 +300,35 @@
   font-weight: 500;
   color: #1c1c1c;
 }
-.link37,
-.link38,
-.link39,
-.link40 {
+.link27,
+.link28,
+.link29,
+.link30 {
   position: absolute;
   top: 23.9%;
   left: 0;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.link38,
-.link39,
-.link40 {
+.link28,
+.link29,
+.link30 {
   top: 43.99%;
 }
-.link39,
-.link40 {
+.link29,
+.link30 {
   top: 64.15%;
 }
-.link40 {
+.link30 {
   top: 84.31%;
 }
-.col12 {
+.col10 {
   width: 90px;
   height: 152.3px;
   position: relative;
   display: none;
 }
-.frame-child5 {
+.frame-child2 {
   align-self: stretch;
   flex: 1;
   position: relative;
@@ -337,7 +337,7 @@
   box-sizing: border-box;
   max-width: 100%;
 }
-.imageflagsicon3 {
+.imageflagsicon2 {
   outline: 0;
   border: 0;
   width: 100%;
@@ -459,26 +459,26 @@
   color: #000;
   display: inline-block;
 }
-.link41 {
+.link31 {
   right: 481px;
   bottom: 145px;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.link41,
-.link42,
-.link43 {
+.link31,
+.link32,
+.link33 {
   position: absolute;
   margin: 0 !important;
   z-index: 1;
 }
-.link42 {
+.link32 {
   right: 503px;
   bottom: 120px;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.link43 {
+.link33 {
   top: 45px;
   right: 289px;
   line-height: 22px;
@@ -545,7 +545,7 @@
   }
 }
 @media screen and (max-width: 450px) {
-  .col10 {
+  .col8 {
     flex: 1;
   }
   .info-link-container {

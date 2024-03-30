@@ -1,10 +1,10 @@
-.image-3-icon1 {
+.image-3-icon {
   height: 75px;
   width: 84px;
   position: relative;
   object-fit: cover;
 }
-.vn-bn-php2 {
+.vn-bn-php1 {
   margin: 0;
   align-self: stretch;
   position: relative;
@@ -83,7 +83,7 @@
   font-family: Inter;
 }
 @media screen and (max-width: 750px) {
-  .vn-bn-php2 {
+  .vn-bn-php1 {
     font-size: 28px;
     line-height: 18px;
   }
@@ -92,7 +92,7 @@
   }
 }
 @media screen and (max-width: 450px) {
-  .vn-bn-php2 {
+  .vn-bn-php1 {
     font-size: 21px;
     line-height: 13px;
   }

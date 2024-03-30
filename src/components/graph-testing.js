@@ -4,7 +4,7 @@ import "./graph-testing.css";
 const GraphTesting = () => {
   return (
     <footer className="frame-footer">
-      <div className="frame-child8" />
+      <div className="frame-child5" />
       <div className="s-cng-thng2">2024 © Sở Công Thương tỉnh Hòa Bình</div>
       <div className="test-result-analysis">
         <div className="graph-layout-library">

@@ -4,7 +4,7 @@ import "./frame-component4.css";
 
 const FrameComponent4 = () => {
   return (
-    <section className="frame-section">
+    <section className="frame-parent2">
       <FrameComponent6 brandlogoSymbol="/brandlogosymbol1@2x.png" />
       <FrameComponent5 />
     </section>

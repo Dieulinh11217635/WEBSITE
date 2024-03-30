@@ -8,7 +8,7 @@ const FrameComponent = ({
   propMinWidth,
   propHeight,
 }) => {
-  const vChngTiStyle = useMemo(() => {
+  const vChngTi1Style = useMemo(() => {
     return {
       display: propDisplay,
       minWidth: propMinWidth,
@@ -18,16 +18,16 @@ const FrameComponent = ({
 
   return (
     <div className="logic-gate-inner1">
-      <div className="frame-parent2">
+      <div className="frame-parent6">
         <div className="more-info-wrapper">
           <img
-            className="more-info-icon"
+            className="more-info-icon1"
             loading="lazy"
             alt=""
             src={moreInfo}
           />
         </div>
-        <div className="v-chng-ti" style={vChngTiStyle}>
+        <div className="v-chng-ti1" style={vChngTi1Style}>
           {vChngTi}
         </div>
       </div>

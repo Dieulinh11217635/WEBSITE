@@ -8,7 +8,7 @@ const GroupComponent = () => {
         <div className="wrapper-imageflagsicon-container">
           <div className="wrapper-imageflagsicon2">
             <img
-              className="imageflagsicon5"
+              className="imageflagsicon4"
               type="text"
               alt=""
               src="/imageflagsicon-1@2x.png"

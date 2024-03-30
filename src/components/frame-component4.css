@@ -1,4 +1,4 @@
-.frame-section {
+.frame-parent2 {
   align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,7 @@
   font-family: Inter;
 }
 @media screen and (max-width: 450px) {
-  .frame-section {
+  .frame-parent2 {
     padding-bottom: 203px;
     box-sizing: border-box;
   }

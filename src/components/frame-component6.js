@@ -4,23 +4,23 @@ const FrameComponent6 = ({ brandlogoSymbol }) => {
   return (
     <header className="layoutheader-alibaba-group">
       <div className="layoutheader-alibaba1">
-        <img className="bg-icon3" alt="" src="/bg1.svg" />
+        <img className="bg-icon2" alt="" src="/bg1.svg" />
         <div className="actions1">
           <div className="cart1">
-            <img className="vector-icon8" alt="" src="/vector1.svg" />
+            <img className="vector-icon6" alt="" src="/vector1.svg" />
             <div className="my-cart1">My cart</div>
           </div>
           <div className="orders2">
-            <img className="vector-icon9" alt="" src="/vector-1.svg" />
+            <img className="vector-icon7" alt="" src="/vector-1.svg" />
             <div className="orders3">Orders</div>
           </div>
           <div className="message2">
             <div className="message3">Message</div>
-            <img className="vector-icon10" alt="" src="/vector-2.svg" />
+            <img className="vector-icon8" alt="" src="/vector-2.svg" />
           </div>
           <div className="profile2">
             <div className="profile3">Profile</div>
-            <img className="vector-icon11" alt="" src="/vector-3.svg" />
+            <img className="vector-icon9" alt="" src="/vector-3.svg" />
           </div>
         </div>
         <form className="search-form1">
@@ -45,7 +45,7 @@ const FrameComponent6 = ({ brandlogoSymbol }) => {
                 <div className="text4">Danh mục</div>
               </div>
               <img
-                className="iconcontrolexpand-more7"
+                className="iconcontrolexpand-more4"
                 alt=""
                 src="/iconcontrolexpand-more1.svg"
               />
@@ -58,16 +58,16 @@ const FrameComponent6 = ({ brandlogoSymbol }) => {
             </button>
           </div>
         </form>
-        <div className="brandlogo-colored3">
-          <img className="brand-icon3" alt="" src="/brand1.svg" />
+        <div className="brandlogo-colored2">
+          <img className="brand-icon2" alt="" src="/brand1.svg" />
           <img
-            className="brandlogo-symbol-icon3"
+            className="brandlogo-symbol-icon2"
             alt=""
             src={brandlogoSymbol}
           />
         </div>
       </div>
-      <div className="ng-nhp3">Đăng nhập</div>
+      <div className="ng-nhp2">Đăng nhập</div>
       <img
         className="image-127-icon2"
         loading="lazy"

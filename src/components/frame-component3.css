@@ -21,7 +21,7 @@
   box-sizing: border-box;
   max-width: 100%;
 }
-.frame-child6,
+.frame-child3,
 .rectangle-input {
   border: 0;
   outline: 0;
@@ -37,7 +37,7 @@
 .rectangle-input {
   top: -35.2px;
 }
-.frame-child6 {
+.frame-child3 {
   bottom: -37px;
 }
 .email {
@@ -54,11 +54,11 @@
   z-index: 1;
 }
 .password,
-.rectangle-parent6 {
+.rectangle-parent2 {
   align-self: stretch;
   position: relative;
 }
-.rectangle-parent6 {
+.rectangle-parent2 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -73,14 +73,14 @@
   z-index: 2;
   margin: -24.4px 0 0;
 }
-.frame-parent5,
+.frame-parent4,
 .frame-wrapper2 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   max-width: 100%;
 }
-.frame-parent5 {
+.frame-parent4 {
   flex: 1;
   flex-direction: column;
 }
@@ -137,7 +137,7 @@
   flex-wrap: wrap;
   gap: 27.2px;
 }
-.frame-child7 {
+.frame-child4 {
   height: 108.2px;
   width: 707px;
   position: relative;
@@ -147,12 +147,12 @@
   max-width: 100%;
   z-index: 0;
 }
-.ng-nhp4,
+.ng-nhp3,
 .qun-mt-khu {
   font-family: inherit;
   display: inline-block;
 }
-.ng-nhp4 {
+.ng-nhp3 {
   margin: 0;
   width: 230.6px;
   position: relative;
@@ -176,7 +176,7 @@
   color: #f59904;
   z-index: 2;
 }
-.rectangle-parent7 {
+.rectangle-parent3 {
   width: 707px;
   border-radius: 10px;
   background-color: #f59904;
@@ -223,7 +223,7 @@
   font-size: 35px;
   color: #fdfaf5;
 }
-.frame-parent4,
+.frame-parent3,
 .function-caller,
 .input-processor {
   display: flex;
@@ -237,7 +237,7 @@
   font-size: 24px;
   color: rgba(0, 0, 0, 0.38);
 }
-.frame-parent4 {
+.frame-parent3 {
   width: 717.4px;
   gap: 111.2px;
   text-align: left;
@@ -256,7 +256,7 @@
     box-sizing: border-box;
   }
   .email,
-  .ng-nhp4,
+  .ng-nhp3,
   .password {
     font-size: 28px;
     line-height: 18px;
@@ -264,7 +264,7 @@
   .function-caller {
     gap: 18px 35.8px;
   }
-  .frame-parent4 {
+  .frame-parent3 {
     gap: 56px 111.2px;
   }
 }
@@ -282,7 +282,7 @@
     font-size: 19px;
     line-height: 18px;
   }
-  .ng-nhp4 {
+  .ng-nhp3 {
     font-size: 21px;
     line-height: 13px;
   }
@@ -291,7 +291,7 @@
     font-size: 19px;
     line-height: 18px;
   }
-  .frame-parent4 {
+  .frame-parent3 {
     gap: 28px 111.2px;
   }
 }

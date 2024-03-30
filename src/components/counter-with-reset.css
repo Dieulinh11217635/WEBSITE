@@ -1,5 +1,5 @@
-.brand-icon,
-.brandlogo-symbol-icon {
+.brand-icon4,
+.brandlogo-symbol-icon4 {
   position: absolute;
   height: 45.98%;
   width: 51.33%;
@@ -11,7 +11,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.brandlogo-symbol-icon {
+.brandlogo-symbol-icon4 {
   height: 95.79%;
   width: 29.33%;
   top: 2.11%;
@@ -20,13 +20,13 @@
   left: -0.67%;
   object-fit: contain;
 }
-.brandlogo-colored {
+.brandlogo-colored4 {
   height: 52.2px;
   width: 150px;
   position: relative;
   display: none;
 }
-.best-information-about {
+.best-information-about1 {
   width: 276px;
   position: relative;
   letter-spacing: -0.2px;
@@ -34,43 +34,43 @@
   display: none;
   flex-shrink: 0;
 }
-.icon-contactsocialfacebook3,
-.icon-contactsocialinstagram3,
-.icon-contactsociallinkedin3,
-.icon-contactsocialtwitter3,
-.icon-contactsocialyoutube3 {
+.icon-contactsocialfacebook31,
+.icon-contactsocialinstagram31,
+.icon-contactsociallinkedin31,
+.icon-contactsocialtwitter31,
+.icon-contactsocialyoutube31 {
   height: 36.3px;
   width: 32px;
   position: relative;
   min-height: 36px;
 }
-.icon-contactsocialfacebook3-parent {
+.icon-contactsocialfacebook3-group {
   height: 36.3px;
   gap: 10px;
 }
-.brandlogo-colored-parent,
-.icon-contactsocialfacebook3-parent {
+.brandlogo-colored-group,
+.icon-contactsocialfacebook3-group {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.link16 {
+.link34 {
   position: relative;
   line-height: 22px;
   font-weight: 500;
   flex-shrink: 0;
   debug_commit: f6aba90;
 }
-.link17,
-.link18,
-.link19,
-.link20 {
+.link35,
+.link36,
+.link37,
+.link38 {
   position: relative;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.col6,
+.col11,
 .timer-with-elapsed-time {
   display: flex;
   flex-direction: column;
@@ -83,7 +83,7 @@
   debug_commit: f6aba90;
   color: #fff;
 }
-.col6 {
+.col11 {
   height: 152.3px;
   flex: 1;
   padding: 0 0 130.3px;
@@ -91,40 +91,40 @@
   gap: 14.4px;
   min-width: 152px;
 }
-.link21 {
+.link39 {
   position: relative;
   line-height: 22px;
   font-weight: 500;
   flex-shrink: 0;
   debug_commit: f6aba90;
 }
-.link22 {
+.link40 {
   display: inline-block;
   min-width: 71px;
 }
-.link22,
-.link23,
-.link24,
-.link25 {
+.link40,
+.link41,
+.link42,
+.link43 {
   position: relative;
   letter-spacing: -0.2px;
   line-height: 24px;
 }
-.link-parent {
+.link-container {
   flex-direction: column;
   gap: 6.7px;
   flex-shrink: 0;
   debug_commit: f6aba90;
   color: #fff;
 }
-.col7,
+.col12,
 .graph-with-connected-component,
-.link-parent {
+.link-container {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.col7 {
+.col12 {
   height: 152.3px;
   flex-direction: column;
   padding: 0 0 130.3px;
@@ -185,7 +185,7 @@
   }
 }
 @media screen and (max-width: 450px) {
-  .col7 {
+  .col12 {
     flex: 1;
   }
   .graph-with-connected-component {

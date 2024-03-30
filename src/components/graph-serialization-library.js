@@ -7,7 +7,7 @@ const GraphSerializationLibrary = ({
   propDisplay,
   propHeight,
 }) => {
-  const vChngTi1Style = useMemo(() => {
+  const vChngTiStyle = useMemo(() => {
     return {
       display: propDisplay,
       height: propHeight,
@@ -19,13 +19,13 @@ const GraphSerializationLibrary = ({
       <div className="graph-deserialization-library">
         <div className="graph-data-processing-library">
           <img
-            className="more-info-icon1"
+            className="more-info-icon"
             loading="lazy"
             alt=""
             src={moreInfo}
           />
         </div>
-        <div className="v-chng-ti1" style={vChngTi1Style}>
+        <div className="v-chng-ti" style={vChngTiStyle}>
           {vChngTi}
         </div>
       </div>

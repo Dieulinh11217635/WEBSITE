@@ -18,7 +18,7 @@ const ContactSocialMedia = ({
 
   return (
     <div className="contact-social-media">
-      <div className="frame-parent3">
+      <div className="frame-parent1">
         <div className="handshake-wrapper">
           <img
             className="handshake-icon"

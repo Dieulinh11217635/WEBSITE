@@ -1,4 +1,4 @@
-.more-info-icon1 {
+.more-info-icon {
   height: 50px;
   width: 50px;
   position: relative;
@@ -13,7 +13,7 @@
   justify-content: flex-start;
   padding: 0 29px 0 28px;
 }
-.v-chng-ti1 {
+.v-chng-ti {
   position: relative;
   letter-spacing: -0.2px;
   line-height: 24px;
