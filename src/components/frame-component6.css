@@ -1,0 +1,380 @@
+.bg-icon3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.my-cart1 {
+  position: absolute;
+  top: 63.41%;
+  left: 0;
+  white-space: nowrap;
+}
+.cart1,
+.vector-icon9 {
+  position: absolute;
+  height: 100%;
+  width: 19.3%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 80.7%;
+}
+.vector-icon9 {
+  height: 44%;
+  width: 51.28%;
+  right: 23.08%;
+  bottom: 56%;
+  left: 25.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.orders2,
+.orders3 {
+  position: absolute;
+  top: 62.5%;
+  left: 0;
+}
+.orders2 {
+  height: 97.56%;
+  width: 17.11%;
+  top: 2.44%;
+  right: 27.19%;
+  bottom: 0;
+  left: 55.7%;
+}
+.message3 {
+  position: absolute;
+  top: 62.5%;
+  left: 0;
+}
+.vector-icon10 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.message2 {
+  position: absolute;
+  height: 97.56%;
+  width: 22.81%;
+  top: 2.44%;
+  right: 50.88%;
+  bottom: 0;
+  left: 26.32%;
+}
+.profile3 {
+  position: absolute;
+  top: 63.41%;
+  left: 0;
+}
+.vector-icon11 {
+  position: relative;
+  width: 20px;
+  height: 19px;
+}
+.profile2 {
+  position: absolute;
+  height: 100%;
+  width: 16.23%;
+  top: 0;
+  right: 83.77%;
+  bottom: 0;
+  left: 0;
+}
+.actions1 {
+  height: 41px;
+  width: 228px;
+  position: relative;
+  display: none;
+  z-index: 1;
+}
+.background-icon3,
+.search-form-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+}
+.search-form-item {
+  right: -2px;
+  bottom: -2px;
+  border-radius: 6px;
+  background-color: #d9d9d9;
+  border: 1px solid #0d6efd;
+  box-sizing: border-box;
+}
+.background-icon3 {
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon01 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+  z-index: 1;
+}
+.forminput-groupinput-left1,
+.text3 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.text3 {
+  font-size: 16px;
+  font-family: Inter;
+  color: #8b96a5;
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.forminput-groupinput-left1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 5px 10px 10px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.background-icon4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.text4 {
+  width: 130px;
+  position: relative;
+  font-size: 16px;
+  font-family: Inter;
+  color: #1c1c1c;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.text-container {
+  width: 104px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.iconcontrolexpand-more7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.forminput-groupinput-left-group,
+.forminput-groupinput-midle1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.forminput-groupinput-midle1 {
+  height: 40px;
+  padding: 8px 7px 8px 10px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+  margin-left: -1px;
+}
+.forminput-groupinput-left-group {
+  flex: 1;
+  max-width: 100%;
+}
+.background-icon5 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.text5 {
+  width: 54px;
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.buttonbasetext-md1,
+.buttonbtn-group1,
+.search-form1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.buttonbasetext-md1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 13px;
+  background-color: transparent;
+}
+.buttonbtn-group1,
+.search-form1 {
+  position: relative;
+}
+.buttonbtn-group1 {
+  padding: 11px 10px 10px;
+}
+.search-form1 {
+  margin: 0;
+  width: 665px;
+  max-width: 100%;
+}
+.brand-icon3,
+.brandlogo-symbol-icon3 {
+  position: absolute;
+  height: 45.87%;
+  width: 51.33%;
+  top: 26.09%;
+  right: 15.87%;
+  bottom: 28.04%;
+  left: 32.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brandlogo-symbol-icon3 {
+  height: 95.65%;
+  width: 29.33%;
+  top: 2.17%;
+  right: 71.33%;
+  bottom: 2.17%;
+  left: -0.67%;
+  object-fit: contain;
+}
+.brandlogo-colored3 {
+  height: 46px;
+  width: 150px;
+  position: relative;
+  display: none;
+  z-index: 3;
+}
+.layoutheader-alibaba1 {
+  flex: 1;
+  background-color: #d78e3e;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 326px 24px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+  font-size: 12px;
+  color: #8b96a5;
+}
+.ng-nhp3 {
+  width: 121px;
+  top: 21px;
+  right: 39px;
+  font-weight: 600;
+  display: inline-block;
+  white-space: nowrap;
+}
+.image-127-icon2,
+.ng-k2,
+.ng-nhp3 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.image-127-icon2 {
+  height: 50px;
+  width: 135.3px;
+  top: calc(50% - 25px);
+  left: 117px;
+  object-fit: cover;
+}
+.ng-k2 {
+  width: 100px;
+  top: 21px;
+  right: 190px;
+  font-weight: 600;
+  display: inline-block;
+  white-space: nowrap;
+}
+.layoutheader-alibaba-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1275px) {
+  .layoutheader-alibaba1 {
+    padding-left: 163px;
+    padding-right: 163px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .layoutheader-alibaba1 {
+    padding-left: 81px;
+    padding-right: 81px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .layoutheader-alibaba1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

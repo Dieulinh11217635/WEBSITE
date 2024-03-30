@@ -1,0 +1,297 @@
+.ng-nhp-ti {
+  margin: 0;
+  height: 32.1px;
+  width: 548px;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.ng-nhp-ti-khon-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 47px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child6,
+.rectangle-input {
+  border: 0;
+  outline: 0;
+  background-color: #fff;
+  height: 100.7px;
+  width: 707px;
+  position: absolute;
+  margin: 0 !important;
+  right: -211.4px;
+  border-radius: 10px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-input {
+  top: -35.2px;
+}
+.frame-child6 {
+  bottom: -37px;
+}
+.email {
+  margin: 0;
+  height: 185.5px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.password,
+.rectangle-parent6 {
+  align-self: stretch;
+  position: relative;
+}
+.rectangle-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.password {
+  font-size: inherit;
+  line-height: 22.2px;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 2;
+  margin: -24.4px 0 0;
+}
+.frame-parent5,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper2 {
+  width: 518.6px;
+  flex-direction: row;
+  padding: 0 23px;
+  box-sizing: border-box;
+  font-size: 35px;
+  color: rgba(0, 0, 0, 0.21);
+}
+.condition-checker,
+.ghi-nh {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.condition-checker {
+  height: 37.2px;
+  width: 37px;
+  border-radius: 2px;
+  background-color: #f2f3f8;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(58, 52, 52, 0.4);
+  box-sizing: border-box;
+}
+.ghi-nh {
+  margin: 0;
+  align-self: stretch;
+  height: 185.5px;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+}
+.output-generator,
+.sequence-controller {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sequence-controller {
+  flex: 1;
+  flex-direction: column;
+  padding: 16.1px 0 0;
+  box-sizing: border-box;
+  min-width: 307px;
+}
+.output-generator {
+  width: 534.8px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 27.2px;
+}
+.frame-child7 {
+  height: 108.2px;
+  width: 707px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #f59904;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.ng-nhp4,
+.qun-mt-khu {
+  font-family: inherit;
+  display: inline-block;
+}
+.ng-nhp4 {
+  margin: 0;
+  width: 230.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 24.3px;
+  font-weight: 700;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.qun-mt-khu {
+  margin: 0 !important;
+  height: 198.7px;
+  width: 472.6px;
+  position: absolute;
+  top: -99.7px;
+  right: -286.6px;
+  font-size: 24px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  color: #f59904;
+  z-index: 2;
+}
+.rectangle-parent7 {
+  width: 707px;
+  border-radius: 10px;
+  background-color: #f59904;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 42px 20px 41.9px;
+  box-sizing: border-box;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.ng-k-ngay {
+  color: #f59904;
+}
+.bn-cha-c-container {
+  margin: 0;
+  height: 185.5px;
+  width: 590.4px;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.data-merger {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.38);
+}
+.function-caller {
+  align-self: stretch;
+  gap: 35.8px;
+  margin-top: -98.9px;
+  font-size: 35px;
+  color: #fdfaf5;
+}
+.frame-parent4,
+.function-caller,
+.input-processor {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.input-processor {
+  align-self: stretch;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.38);
+}
+.frame-parent4 {
+  width: 717.4px;
+  gap: 111.2px;
+  text-align: left;
+  font-size: 40px;
+  color: #f59904;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .ng-nhp-ti {
+    font-size: 32px;
+    line-height: 18px;
+  }
+  .ng-nhp-ti-khon-wrapper {
+    padding-left: 23px;
+    padding-right: 23px;
+    box-sizing: border-box;
+  }
+  .email,
+  .ng-nhp4,
+  .password {
+    font-size: 28px;
+    line-height: 18px;
+  }
+  .function-caller {
+    gap: 18px 35.8px;
+  }
+  .frame-parent4 {
+    gap: 56px 111.2px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ng-nhp-ti {
+    font-size: 24px;
+    line-height: 13px;
+  }
+  .email,
+  .password {
+    font-size: 21px;
+    line-height: 13px;
+  }
+  .ghi-nh {
+    font-size: 19px;
+    line-height: 18px;
+  }
+  .ng-nhp4 {
+    font-size: 21px;
+    line-height: 13px;
+  }
+  .bn-cha-c-container,
+  .qun-mt-khu {
+    font-size: 19px;
+    line-height: 18px;
+  }
+  .frame-parent4 {
+    gap: 28px 111.2px;
+  }
+}

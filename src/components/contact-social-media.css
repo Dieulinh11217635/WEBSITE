@@ -1,0 +1,49 @@
+.handshake-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.handshake-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 29px 0 28px;
+}
+.lin-kt {
+  height: 28px;
+  position: relative;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.contact-social-media,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  height: 93px;
+  gap: 15px;
+}
+.contact-social-media {
+  flex: 1;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+  min-width: 70px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 18px;
+  color: #000;
+  font-family: Inter;
+}

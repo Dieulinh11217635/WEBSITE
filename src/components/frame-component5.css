@@ -1,0 +1,360 @@
+.bg-icon4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.border2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e0e0e0;
+  box-sizing: border-box;
+}
+.iconcontrolmenu2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.nav12 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 77px;
+}
+.iconcontrolmenu-container,
+.nav-wrapper10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav-wrapper10 {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.iconcontrolmenu-container {
+  height: 24px;
+  flex-direction: row;
+  gap: 6px;
+}
+.nav13 {
+  width: 0;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nav-wrapper11 {
+  width: 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.nav14 {
+  width: 0;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nav-wrapper12 {
+  width: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.nav15 {
+  width: 0;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nav-wrapper13 {
+  width: 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.nav16 {
+  width: 0;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nav-wrapper14 {
+  width: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.nav17 {
+  width: 0;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nav-wrapper15 {
+  width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.iconcontrolexpand-more8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.dropdown2,
+.nav-list-frame,
+.nav-list2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.dropdown2 {
+  height: 24px;
+  width: 61px;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.nav-list-frame,
+.nav-list2 {
+  max-width: 100%;
+}
+.nav-list2 {
+  width: 620px;
+  justify-content: space-between;
+  gap: 20px;
+  z-index: 1;
+}
+.nav-list-frame {
+  width: 880px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.fitness4 {
+  position: absolute;
+  top: 8.33%;
+  left: 0;
+  line-height: 22px;
+  font-weight: 500;
+}
+.iconcontrolexpand-more9,
+.imageflagsicon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.imageflagsicon4 {
+  height: 66.67%;
+  width: 19.13%;
+  top: 20.83%;
+  right: 28.7%;
+  bottom: 12.5%;
+  left: 52.17%;
+  object-fit: cover;
+}
+.iconcontrolexpand-more9 {
+  height: 100%;
+  width: 20.87%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 79.13%;
+}
+.ship-to2 {
+  width: 115px;
+  height: 24px;
+  position: relative;
+  display: none;
+  z-index: 3;
+}
+.fitness5 {
+  position: absolute;
+  top: 8.33%;
+  left: 0;
+  line-height: 22px;
+  font-weight: 500;
+}
+.iconcontrolexpand-more10 {
+  position: absolute;
+  height: 100%;
+  width: 19.35%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 80.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payment2 {
+  width: 124px;
+  height: 24px;
+  position: relative;
+  display: none;
+  z-index: 4;
+}
+.layoutnavbar-alibaba-inner {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e0e0e0;
+  box-sizing: border-box;
+}
+.layoutnavbar-alibaba2 {
+  height: 56px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 15.5px;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.tr-gip2,
+.vn-bn-php3 {
+  top: 17px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.tr-gip2 {
+  position: absolute;
+  margin: 0 !important;
+  right: 352px;
+  display: inline-block;
+  min-width: 65px;
+  z-index: 2;
+}
+.vn-bn-php3 {
+  right: 556px;
+}
+.doanh-nghip3,
+.vector-icon12,
+.vn-bn-php3 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.doanh-nghip3 {
+  top: 17px;
+  left: 576px;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 113px;
+}
+.vector-icon12 {
+  height: 7.4px;
+  width: 12px;
+  right: 336px;
+  bottom: 23.6px;
+}
+.tin-tc2 {
+  width: 65px;
+  top: 17px;
+  left: 458px;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.tin-tc2,
+.vector-icon13,
+.video2 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.video2 {
+  width: 65px;
+  top: 17px;
+  left: 340px;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon13 {
+  height: 21px;
+  width: 21px;
+  top: -19px;
+  left: 24px;
+}
+.gi-hng2 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 70px;
+  z-index: 3;
+}
+.layoutnavbar-alibaba-container,
+.vector-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-container {
+  margin: 0 !important;
+  position: absolute;
+  top: 27px;
+  left: 1282px;
+  color: #8b96a5;
+}
+.layoutnavbar-alibaba-container {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .nav-list2 {
+    flex-wrap: wrap;
+  }
+  .layoutnavbar-alibaba2 {
+    height: auto;
+  }
+}

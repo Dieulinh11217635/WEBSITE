@@ -1,0 +1,90 @@
+.graph-input-output {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #eff2f4;
+  border-top: 1px solid #dee2e7;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.imageflagsicon5 {
+  outline: 0;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+}
+.wrapper-imageflagsicon2 {
+  position: absolute;
+  width: 22.43%;
+  border: 0;
+  background-color: transparent;
+  height: 70.7%;
+  top: 12.45%;
+  right: 77.57%;
+  bottom: 16.85%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.english2 {
+  position: absolute;
+  top: 0;
+  left: 28.04%;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+}
+.iconcontrolexpand-less2 {
+  position: absolute;
+  height: 100%;
+  width: 22.43%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 77.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.wrapper-imageflagsicon-container {
+  position: absolute;
+  height: 113.75%;
+  width: 33.44%;
+  top: 0;
+  right: -267.5%;
+  bottom: -13.75%;
+  left: 334.06%;
+  display: none;
+}
+.ecommerce2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  text-align: left;
+  display: inline-block;
+  height: 100%;
+}
+.payment-method-language2 {
+  height: 24px;
+  width: 320px;
+  position: relative;
+  display: none;
+}
+.graph-input-output-parent {
+  align-self: stretch;
+  height: 77.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: right;
+  font-size: 16px;
+  color: #606060;
+  font-family: Inter;
+}
